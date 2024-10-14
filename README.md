@@ -4,7 +4,8 @@ It makes it easier to install and manage dependencies for development and testin
 # difference between requirements_dev.txt and requirements.txt
 
 requirements.txt is used to specify the dependencies required to run the production code of a Python project, while requirements_dev.txt is used to specify the dependencies required for development and testing purposes.
-
+# ci.yml
+Testing while integration.
 # tox.ini
 We use if for the testing in the python package testing against different version of the python [Hashem: test on local environment, whereas python-publish.yaml test it on github servery maybe]
  
